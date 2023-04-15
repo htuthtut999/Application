@@ -1,2 +1,2 @@
 This is FileA
-This is a second line for testing
+This is a testing file (1)
